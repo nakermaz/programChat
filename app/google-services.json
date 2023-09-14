@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "427488448595",
+    "project_id": "chatprogram-28f64",
+    "storage_bucket": "chatprogram-28f64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427488448595:android:028a6b92eb0497ff2336a6",
+        "android_client_info": {
+          "package_name": "com.example.chatprogram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427488448595-p0kt18t784go58ks74le2vhcsaffnfcv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSm94xooBeGJJGtXbsMWaDsDzdqHlR_wY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427488448595-p0kt18t784go58ks74le2vhcsaffnfcv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
